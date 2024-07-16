@@ -1,0 +1,27 @@
+body{
+    background-image: url("image\ 4.avif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+}p{
+    color:white;
+    text-align: center;
+}
+img{
+    width:30%;
+    height:45%;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+.para{
+    float:right;
+    color:white;
+    font-size: 18px;
+    margin-top: 20px;
+}

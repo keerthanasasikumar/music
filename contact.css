@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background-image: url("images\ \(5\).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+    width: 50%;
+    margin: 10px auto;
+}
+.contact-form{
+    padding: 20px;
+    max-width: 600px;
+    width: 100%;
+    color: snow;
+}
+.contact-form h2{
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-align: center;
+    color: snow;
+}
+.contact-form form{
+    display: flex;
+    flex-direction: column;
+}
+.contact-form input,.contact-form textarea{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.contact-form textarea{
+    resize:none;
+}
+.contact-form button{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e50914;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.contact-info{
+    margin-top: 20px;
+    text-align: center;
+}
+.contact-info p{
+    margin: 5px 0;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fa-facebook{
+    color: snow;
+}
+.fa-twitter{
+    color: snow;
+}
+.fa-instagram{
+    color: snow;
+}
+.button1 span{
+    color: black;
+}
+.button2 span{
+    color:black;
+}
+.button3 span{
+    color:black;
+}

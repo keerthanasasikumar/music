@@ -1,0 +1,42 @@
+body{
+    background-image:url("download\ \(4\).jpg");
+    background-size: cover;
+}.container{
+   position:relative;
+}
+.content{
+    position: absolute;
+    top:20px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 5px;
+}
+hr{
+    width: 100%;
+    margin-top: 1px;
+}
+img{
+    float: right;
+    width: 220px;
+    height: 235px ;
+    margin-right: 5px;
+}
+p{
+    text-align: center;
+    font-size: 110%;
+}
+h2{
+    float: left;
+    margin-top: 1px;
+}
+.elements{
+    float: left;
+    margin-top: 1px;
+    font-size: 105%;
+    padding: 5px 20px;
+    margin: 45px 70px 1px 10px;
+    height: 150px;
+    width: 29%px;
+}
